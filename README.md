@@ -114,13 +114,12 @@ The Group operates over 100 companies internationally,primarily in Germany, Euro
 
 '''
 # OUTPUT
-<img width="1035" height="434" alt="Screenshot 2025-10-12 162720" src="https://github.com/user-attachments/assets/dea1e22d-fce2-427b-abc4-204b13b8e9b9" />
-<img width="1034" height="526" alt="Screenshot 2025-10-12 163506" src="https://github.com/user-attachments/assets/d41335c0-dcda-4749-8d7b-4a46b497d320" />
-<img width="1035" height="524" alt="Screenshot 2025-10-12 163705" src="https://github.com/user-attachments/assets/bb836acd-5bcb-4438-928d-afd324042208" />
+<img width="1035" height="436" alt="Screenshot 2025-10-12 193256" src="https://github.com/user-attachments/assets/ad7c2bd1-ea34-470f-83e6-1faaceb27ea7" />
+<img width="1034" height="528" alt="Screenshot 2025-10-12 193458" src="https://github.com/user-attachments/assets/efd398a2-a43c-4437-89cc-4adf17c1bc2c" />
+<img width="1035" height="524" alt="Screenshot 2025-10-12 193615" src="https://github.com/user-attachments/assets/c1ddfaea-da11-41cd-88f7-fa1de04ebc75" />
 <img width="1036" height="527" alt="Screenshot 2025-10-12 163829" src="https://github.com/user-attachments/assets/3380fe10-730d-49b5-a3b0-6617824e5aa2" />
-<img width="1029" height="522" alt="Screenshot 2025-10-12 163944" src="https://github.com/user-attachments/assets/4cfd6079-6f39-4ce0-ab75-91286d1808fd" />
-<img width="1032" height="528" alt="Screenshot 2025-10-12 164052" src="https://github.com/user-attachments/assets/99fda299-c888-4413-bab9-627648082476" />
-
+<img width="1032" height="521" alt="Screenshot 2025-10-12 193920" src="https://github.com/user-attachments/assets/9ec7d9ab-d3f4-4fc5-b54d-b995fac7e741" />
+<img width="1032" height="526" alt="Screenshot 2025-10-12 193758" src="https://github.com/user-attachments/assets/b08cecfa-aeba-4e5b-b169-5871cc9e36c9" />
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
 
