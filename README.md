@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-'''
+```html
 imagemap.html
 
 <html>
@@ -112,7 +112,7 @@ The Group operates over 100 companies internationally,primarily in Germany, Euro
     </body>
 </html>
 
-'''
+```
 # OUTPUT
 <img width="1035" height="436" alt="Screenshot 2025-10-12 193256" src="https://github.com/user-attachments/assets/ad7c2bd1-ea34-470f-83e6-1faaceb27ea7" />
 <img width="1034" height="528" alt="Screenshot 2025-10-12 193458" src="https://github.com/user-attachments/assets/efd398a2-a43c-4437-89cc-4adf17c1bc2c" />
